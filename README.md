@@ -1,6 +1,6 @@
 # BookMyShow LLD (Java)
 
-Production-style LLD implementation with clear layers.
+
 
 ## Packages
 - `src/bookmyshow/model`: domain entities and enums
